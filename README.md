@@ -86,4 +86,4 @@ npm run build:css
 
 View Nexter Project in development environment
 ------------------
-To view Nexter Project in development environment, go to http://localhost:808
+To view Nexter Project in development environment, go to http://localhost:8080
